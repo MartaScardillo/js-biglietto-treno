@@ -31,7 +31,7 @@ if (userAge < 18) {
 
 //     - sottraggo price con discount
 
-let discountedPrice = price - discount;
+let discountedPrice = (price - discount).toFixed(2);
 
 // - ## controllo i valori
 
