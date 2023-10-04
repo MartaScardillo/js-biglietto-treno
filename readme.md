@@ -8,7 +8,7 @@
 - ## input utente
 
   - chiedo all'utente quanti km vuole percorrere e li salvo nella variabile numKm
-  - chiedo all'utente quanti anni ha e li salvo nella variabile ageUser
+  - chiedo all'utente quanti anni ha e li salvo nella variabile userAge
 
 - ## calcolo viaggio
 
